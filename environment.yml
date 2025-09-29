@@ -1,0 +1,13 @@
+name: mpm2025
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - python=3.13
+ - pip
+ - ipython
+ - jupyter
+ - numpy
+ - scipy
+ - pip:
+   - -r requirements.txt

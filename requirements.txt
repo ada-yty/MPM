@@ -1,0 +1,9 @@
+ipython
+jupyter
+numpy
+scipy
+matplotlib
+jupyter-book
+sphinx
+pandas
+pytest
