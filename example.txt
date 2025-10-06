@@ -1,1 +1,2 @@
 This is an example file for demonstrating git commands.
+This is a new line.
